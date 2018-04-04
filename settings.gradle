@@ -1,0 +1,1 @@
+include ':app', ':library', ':httpclient-4.2.5', ':json-simple-1.1.1', ':usbserial'

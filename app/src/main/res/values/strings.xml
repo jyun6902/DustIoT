@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">미세먼지IoT</string>
+    <color name="bg">#FFFFFF</color>
+    <string name="publicDustKey">1Eyqv5D0Qcsb%2Bge0PR7Jnrm%2Bphhjj0gZpfS7vJHhvF%2B58hjPG9ABfgIgrLbxJji2dCE341pRFMK02R5q31zzEA%3D%3D</string>
+    <string name="apitext">{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "dataTime": "2016-04-20 14:00",
+            "mangName": "도시대기",
+            "so2Value": "0.007",
+            "coValue": "0.4",
+            "o3Value": "0.043",
+            "no2Value": "0.024",
+            "pm10Value": "73",
+            "pm10Value24": "55",
+            "pm25Value": "44",
+            "pm25Value24": "31",
+            "khaiValue": "75",
+            "khaiGrade": "2",
+            "so2Grade": "1",
+            "coGrade": "1",
+            "o3Grade": "2",
+            "no2Grade": "1",
+            "pm10Grade": "2",
+            "pm25Grade": "2",
+            "pm10Grade1h": "2",
+            "pm25Grade1h": "2"
+          },
+          {
+            "dataTime": "2016-04-20 13:00",
+            "mangName": "도시대기",
+            "so2Value": "0.006",
+            "coValue": "0.4",
+            "o3Value": "0.037",
+            "no2Value": "0.032",
+            "pm10Value": "61",
+            "pm10Value24": "54",
+            "pm25Value": "37",
+            "pm25Value24": "29",
+            "khaiValue": "74",
+            "khaiGrade": "2",
+            "so2Grade": "1",
+            "coGrade": "1",
+            "o3Grade": "2",
+            "no2Grade": "2",
+            "pm10Grade": "2",
+            "pm25Grade": "2",
+            "pm10Grade1h": "2",
+            "pm25Grade1h": "2"
+          },
+          {
+            "dataTime": "2016-04-20 12:00",
+            "mangName": "도시대기",
+            "so2Value": "0.006",
+            "coValue": "0.4",
+            "o3Value": "0.027",
+            "no2Value": "0.040",
+            "pm10Value": "49",
+            "pm10Value24": "53",
+            "pm25Value": "28",
+            "pm25Value24": "28",
+            "khaiValue": "73",
+            "khaiGrade": "2",
+            "so2Grade": "1",
+            "coGrade": "1",
+            "o3Grade": "1",
+            "no2Grade": "2",
+            "pm10Grade": "2",
+            "pm25Grade": "2",
+            "pm10Grade1h": "2",
+            "pm25Grade1h": "2"
+          }
+        ],
+        "#text": "
+      (중략)
+    "
+      },
+      "numOfRows": "10",
+      "pageNo": "1",
+      "totalCount": "24"
+    }
+  }
+}</string>
+</resources>

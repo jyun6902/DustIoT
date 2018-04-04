@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\JY\AndroidStudioProjects\SemiCircleView-master\SemiCircleView.iml" filepath="C:\Users\JY\AndroidStudioProjects\SemiCircleView-master\SemiCircleView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SemiCircleView-master.iml" filepath="$PROJECT_DIR$/SemiCircleView-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpclient-4.2.5/httpclient-4.2.5.iml" filepath="$PROJECT_DIR$/httpclient-4.2.5/httpclient-4.2.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/json-simple-1.1.1/json-simple-1.1.1.iml" filepath="$PROJECT_DIR$/json-simple-1.1.1/json-simple-1.1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usbserial/usbserial.iml" filepath="$PROJECT_DIR$/usbserial/usbserial.iml" />
+    </modules>
+  </component>
+</project>
